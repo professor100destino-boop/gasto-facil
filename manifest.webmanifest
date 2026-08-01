@@ -1,0 +1,11 @@
+{
+  "name": "GASTO FÁCIL",
+  "short_name": "Gasto Fácil",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "lang": "pt-BR",
+  "icons": []
+}
