@@ -1,11 +1,11 @@
 {
-  "name": "GASTO FÁCIL",
-  "short_name": "Gasto Fácil",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "background_color": "#f8fafc",
-  "theme_color": "#0f172a",
-  "lang": "pt-BR",
-  "icons": []
+  "name":"GASTO FÁCIL",
+  "short_name":"Gasto Fácil",
+  "description":"Controle pessoal de gastos, cartões, contas e comprovantes.",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f1f5f9",
+  "theme_color":"#07111f",
+  "lang":"pt-BR"
 }
